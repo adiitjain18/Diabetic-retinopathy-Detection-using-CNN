@@ -45,7 +45,7 @@ This project aims to develop a web-based platform for the detection of diabetic 
 - `app.py`: Main Flask application script.
 - `diabetic_retinopathy.ipynb`: Jupyter Notebook for data preprocessing, model training, and evaluation.
 - `requirements.txt`: Python dependencies.
-- `templates/`: HTML templates for the web application.
+- `template.html`: HTML templates for the web application.
 
 
 ## Model Training
